@@ -1,3 +1,3 @@
 # jupyter notebooks from École polytechnique
 
-great resources for learning machine learning
+great resources for machine learning and deep learning
